@@ -3,8 +3,6 @@
 # Installation
 ### Setup:
 
-$ gh repo clone thebgcs/crossmint_challenge
-$ cd crossmint_challenge
 $ npm i
 
 ### Be sure you have installed:
