@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/controller/createGoalsList.js"
+    "start": "node ./src/controller/controllerGoal.js"
   },
   "keywords": [],
   "author": "",

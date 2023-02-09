@@ -1,7 +1,7 @@
 const { HttpGetGoal } = require("../api/HttpGetGoal");
 const { HttpNewGoal } = require("../api/HttpNewGoal");
 
-async function createGoalsList() {
+async function controllerGoal() {
   const goals = await HttpGetGoal();
 
   for (let row = 0; row < goals.length; row++) {
@@ -49,4 +49,4 @@ async function requestController() {
   return new Promise((resolve) => setInterval(() => resolve(), 1000));
 }
 
-createGoalsList();
+controllerGoal();
