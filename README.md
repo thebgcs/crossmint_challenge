@@ -1,7 +1,6 @@
 # Crossmint Challenge
 
 # Installation
-
 ### Setup:
 
 $ gh repo clone thebgcs/crossmint_challenge
@@ -9,7 +8,6 @@ $ cd crossmint_challenge
 $ npm i
 
 ### Be sure you have installed:
-
 - [NodeJs](https://nodejs.org/en/)
 - [Npm](https://docs.npmjs.com/)
 - [Git](https://git-scm.com/)
@@ -17,4 +15,4 @@ $ npm i
 
 # Execution
 
-**$ npm run start**
+**$ npm run start** 
