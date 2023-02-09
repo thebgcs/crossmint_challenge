@@ -3,13 +3,13 @@
 # Installation
 ### Setup:
 
-$ npm i
+**$ npm i** 
 
 ### Be sure you have installed:
 - [NodeJs](https://nodejs.org/en/)
 - [Npm](https://docs.npmjs.com/)
 - [Git](https://git-scm.com/)
-- [AXIOUS](https://axios-http.com/docs/intro)
+- [AXIOS](https://axios-http.com/docs/intro)
 
 # Execution
 
